@@ -38,8 +38,8 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/prasuna-chandrika-674a04254/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/prasuna-chandrika-674a04254//" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="mailto:etukooriprasuna@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
