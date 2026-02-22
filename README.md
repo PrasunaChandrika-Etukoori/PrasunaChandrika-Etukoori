@@ -7,6 +7,7 @@ Aspiring Data Analyst | M.Sc. Data Science Student at VIT | SQL • Excel • Da
 
 ### 🌱 About Me
 - 🎓 Pursuing **M.Sc. in Data Science** at **Vellore Institute of Technology (VIT)**
+- 🏛 **Intern – Defence Electronics Research Laboratory (DLRL), DRDO** | Exposure to real-world data, documentation, and analytical problem-solving in a research environment
 - 📊 Strong interest in **Data Analysis, Business Insights, and Visualization**
 - 🧠 Currently building a strong foundation in **SQL, Excel, and Python for data analysis**
 - 🌊 Worked on **Underwater Trash Detection**, gaining experience in data handling and analysis
