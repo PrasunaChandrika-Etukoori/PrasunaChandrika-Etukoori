@@ -1,48 +1,46 @@
-<h1 align="center">Hi 👋, I'm Prasuna Chandrika Etukoori</h1>
-<h3 align="center">M.Sc. Data Science Student at VIT | Passionate about Data Analytics, Deep Learning & Real-World AI Projects 🚀</h3>
+Hi 👋, I’m Prasuna Chandrika Etukoori
+
+🎓 M.Sc. Data Science student at Vellore Institute of Technology (VIT)  
+📊 Aspiring Data Analyst | SQL • Excel • Data Analysis  
 
 ---
 
 ### 🌱 About Me
-- 🎓 Pursuing **M.Sc. in Data Science** at **VIT**
-- 💡 Passionate about **Data Analytics, Deep Learning, and Machine Learning**
-- 🧠 Currently working on **Underwater Trash Detection using Deep Learning**
-- 🚗 Building an app called **QuickPark** — a smart parking solution for urban areas
-- 💬 Ask me about: `Python`, `Pandas`, `PowerBI`, `Machine Learning`, `Data Visualization`
-- 📫 Reach me at: **[etukooriprasuna@gmail.com]**
-- ⚡ Fun fact: I turn complex data into clear insights and creative solutions!
+I am a Data Science postgraduate with a strong interest in **data analysis and business insights**.  
+I enjoy working with data, understanding patterns, and translating numbers into clear, actionable insights.
+
+I am currently strengthening my skills in **SQL, Excel, and Python for data analysis**, and I am actively preparing for **entry-level Data Analyst / Business Analyst roles**.
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,git,github,mysql,vscode,linux" />
-</p>
+### 🛠 Skills & Tools
+- SQL  
+- Microsoft Excel  
+- Python (Pandas, NumPy)  
+- Data Analysis  
+- Data Visualization (Power BI / Matplotlib – learning)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrasunaChandrika-Etukoori&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasunaChandrika-Etukoori&layout=compact&theme=tokyonight" height="160px"/>
-</p>
+### 📂 Projects
+- **Data Analytics Projects**  
+  Small analyses and insights using Python, SQL, and visualization tools.
+
+- **Water Consumption Fraud Detection**  
+  Applied machine learning techniques to detect fraudulent usage patterns.
+
+- **Underwater Trash Detection**  
+  Deep learning project for classifying underwater images as trash or non-trash.
+
+- **Smart Parking System**  
+  A smart parking solution aimed at improving urban mobility.
 
 ---
 
-### 🌟 Featured Projects
-- 🌊 **Underwater Trash Detection** — Deep Learning model for marine waste classification  
-- 🚗 **QuickPark** — Smart parking app improving urban mobility  
-- 📊 **Data Analytics Projects** — Insights-driven analyses using Python and visualization tools  
+### 📫 Contact
+- Email: etukooriprasuna@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/prasuna-chandrika-674a04254/
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/prasuna-chandrika-674a04254" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://github.com/PrasunaChandrika-Etukoori" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
-<a href="mailto:etukooriprasuna@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-</p>
-
----
-
-⭐️ *“Learning, building, and innovating — one project at a time.”* 
+✨ *Learning consistently and building practical skills, one step at a time.*
